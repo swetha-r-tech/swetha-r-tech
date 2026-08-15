@@ -8,7 +8,7 @@ Building scalable, real-world web applications with the MERN stack and exploring
 ---
 
 ### 🚀 About Me
-- 🎓 3rd Year B.Tech IT student at Hindusthan College of Technology
+- 🎓 3rd Year B.Tech IT student at Hindusthan College of Technology, Salem
 - 💻 Full Stack Development Intern at Thiranex (completed)
 - 📱 App Development Intern at GrowAITech, Salem (completed)
 - ☁️ Currently exploring AWS & cloud deployment
